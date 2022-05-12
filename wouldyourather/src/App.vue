@@ -61,14 +61,20 @@ export default {
 </script>
 
 <style>
+h1 {
+  margin: 0px;
+  padding-top: 10px;
+}
 #app {
+  margin: 0px;
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
   background-color: blueviolet;
+  height: 100%;
+  width: 100%;
   /*I seek to provide the worst UI ever */
 }
 </style>

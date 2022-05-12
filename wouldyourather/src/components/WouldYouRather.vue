@@ -35,7 +35,7 @@ input, label {
   border-color: red;
 }
 h3 {
-  margin: 40px 0 0;
+  padding-top: 40px;
 }
 ul {
   list-style-type: none;
